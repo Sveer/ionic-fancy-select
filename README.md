@@ -1,7 +1,7 @@
 # A Fancy Select (Updated version with grouping items)
 Added groups for items:
 [Groups for fancy select.png]
-![alt tag](http://pryaniky.blob.core.windows.net/tmp/Groups for fancy select.png)
+![alt tag](http://pryaniky.blob.core.windows.net/tmp/Groups_for_fancy_select.png)
 ## for AngularJS & Ionic Framework
 
 This is the implimentation of the concept described in
